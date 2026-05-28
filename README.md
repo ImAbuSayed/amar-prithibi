@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-prithibi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Amar Prithibi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-prithibi/) |
+| **Get License** | [Commercial Licensing for Amar Prithibi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-prithibi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> মেঘের আড়ালে লুকিয়ে থাকা আমার প্রথম আলো
+> তোমার চোখের গভীরতায় বেসেছি তোমায় ভালো
+> এই জীবনের শূন্য খাতায় তুমিই রঙিন সুর
+> তোমায় নিয়ে পাড়ি দেবো আজ অচিন কোনো দূর
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
