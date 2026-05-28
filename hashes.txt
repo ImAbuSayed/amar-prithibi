@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Prithibi
+
+This log tracks the cryptographic history and versioning for the song **Amar Prithibi** (amar-prithibi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T19:46:33.038724 | `v1` | `4690197a302da99eb33e66c8eb9aa4f8eae287f85284a0cb58f9d3e64819c9c5` | `9d3414338392b3c4189ca11c938a36d244ad32b00603f656f90964bc965154c4` | `2026-05-28_amar-prithibi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

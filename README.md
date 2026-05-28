@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-prithibi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Amar Prithibi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-prithibi/) |
+| **Get License** | [Request Licensing for Amar Prithibi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-prithibi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4690197a302da99eb33e66c8eb9aa4f8eae287f85284a0cb58f9d3e64819c9c5` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
